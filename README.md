@@ -21,7 +21,7 @@ El repositorio contiene varios programas, en su mayoría escaneados de listados 
 PROGRAMAS:
 
 -**Contable**: Se trata de un programa para llevar los gastos de la casa<BR>
--**Comunica**: Programas que permiten el uso de PB-1000 pomo un terminal, conectado a un PC externo vía puerto serie (RS-232-C). En este directorio incluyo el programa BASIC que ejecutaría PB-1000 y un programa C++ que se ejecutaría en el host (PC externo, servidor,...)<BR>
+-**Comunica**: Programas que permiten el uso de PB-1000 pomo un terminal, conectado a un PC externo vía puerto serie (RS-232-C). En este directorio incluyo el programa BASIC que ejecutaría PB-1000 y un programa C++ que se ejecutaría en el host (PC externo, servidor,...). Además permite desde el host imprimir listados y otras actividades del programa contable.<BR>
 -**Saldos**: Programa (extracto.bas) para la gestión personal de extractos de cuenta y saldos<BR><BR>
 
 
